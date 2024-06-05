@@ -14,7 +14,7 @@ In my free time, I enjoy hiking, playing video games, trying out new recipes in 
 - **Geospatial Analysis:** ArcGIS Pro, ArcGIS Online, QGIS, ENVI, TerrSet, Erdas IMAGINE
 - **Programming Languages:** Python, SQL, JavaScript
 - **Data Science Libraries:** PyTorch, Scikit-Learn, Pandas, Geopandas, NumPy, Matplotlib
-- **Modeling and Simulation:** Geosimulation modeling, complex system modeling
+- **Modelling and Simulation:** Geosimulation modelling, complex system modelling
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/bright-addae/)

@@ -11,7 +11,7 @@ In my free time, I enjoy hiking, playing video games, trying out new recipes in 
 - BSc in Geography & Resource Development, University of Ghana
 
 ## Skills
-- **Geospatial Analysis:** ArcGIS Pro, ArcGIS Online, QGIS, ENVI, TerrSet, Erdas IMAGINE
+- **Geospatial Analysis:** ArcGIS Pro, ArcGIS Online, QGIS, ENVI, TerrSet, Erdas IMAGINE, GPS technology
 - **Programming Languages:** Python, SQL, JavaScript
 - **Data Science Libraries:** PyTorch, Scikit-Learn, Pandas, GDAL, Geopandas, NumPy, Matplotlib
 - **Platforms:** Jupyter notebook, VS Code, Pycharm

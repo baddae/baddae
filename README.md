@@ -13,7 +13,7 @@ In my free time, I enjoy hiking, playing video games, trying out new recipes in 
 ## Skills
 - **Geospatial Analysis:** ArcGIS Pro, ArcGIS Online, QGIS, ENVI, TerrSet, Erdas IMAGINE, GPS technology
 - **Programming Languages:** Python, SQL, JavaScript
-- **Data Science Libraries:** PyTorch, Scikit-Learn, Pandas, GDAL, Geopandas, NumPy, Matplotlib
+- **Data Science Libraries:** PyTorch, Scikit-Learn, Pandas, ggplot, GDAL, Geopandas, NumPy, Matplotlib
 - **Platforms:** Jupyter notebook, VS Code, Pycharm
 - **Modelling and Simulation:** Geosimulation modelling, complex system modelling, site suitability assessment
 
